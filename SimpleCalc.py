@@ -1,3 +1,4 @@
+#Simple Calculator using concepts like Functions,If-elif-else conditions,try-except-finally.
 def add(a,b):
     return a+b
 def sub(a,b):
